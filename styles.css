@@ -1,0 +1,43 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    color: lightgray;
+}
+
+.title {
+    background-color: rgb(0, 77, 0);
+    padding: 2px 8px;
+    display: inline;
+}
+
+.header {
+    background-color: #1F2937;
+    display: flex;
+}
+
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.header-links {
+    flex: 1;
+}
+
+/*
+.recipes:link {
+    color: lightgray;
+}
+
+.recipes:visited {
+    color: cornflowerblue;
+}
+
+.recipes:hover {
+    color: lightgreen;
+}
+
+.recipes:active {
+    color: red;
+}
+*/
